@@ -1,10 +1,12 @@
 import React from 'react'
-
+import Button from './Single/Button'
+import Input from './Single/Input'
 const Nav = () => {
+  // pranav
   return (
-    <div>
-        <ul><li><a href="">home</a></li></ul>
-    </div>
+    <>
+    
+    </>
   )
 }
 
